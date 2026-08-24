@@ -1,0 +1,3 @@
+# Este archivo convierte la carpeta "modulos" en un paquete de Python,
+# lo que permite importar sus archivos desde main.py con:
+#     from modulos import carga_datos, limpieza_datos, ...

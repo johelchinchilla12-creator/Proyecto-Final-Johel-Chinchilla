@@ -1,0 +1,296 @@
+[
+  {
+    "provincia": "San José",
+    "sexo": "Femenino",
+    "grupo_edad": "0-14",
+    "anio": 2023,
+    "poblacion": 164730
+  },
+  {
+    "provincia": "San José",
+    "sexo": "Masculino",
+    "grupo_edad": "0-14",
+    "anio": 2023,
+    "poblacion": 165270
+  },
+  {
+    "provincia": "San José",
+    "sexo": "Femenino",
+    "grupo_edad": "15-64",
+    "anio": 2023,
+    "poblacion": 539402
+  },
+  {
+    "provincia": "San José",
+    "sexo": "Masculino",
+    "grupo_edad": "15-64",
+    "anio": 2023,
+    "poblacion": 582598
+  },
+  {
+    "provincia": "San José",
+    "sexo": "Femenino",
+    "grupo_edad": "65+",
+    "anio": 2023,
+    "poblacion": 106574
+  },
+  {
+    "provincia": "San José",
+    "sexo": "Masculino",
+    "grupo_edad": "65+",
+    "anio": 2023,
+    "poblacion": 91426
+  },
+  {
+    "provincia": "Alajuela",
+    "sexo": "Femenino",
+    "grupo_edad": "0-14",
+    "anio": 2023,
+    "poblacion": 101720
+  },
+  {
+    "provincia": "Alajuela",
+    "sexo": "Masculino",
+    "grupo_edad": "0-14",
+    "anio": 2023,
+    "poblacion": 107280
+  },
+  {
+    "provincia": "Alajuela",
+    "sexo": "Femenino",
+    "grupo_edad": "15-64",
+    "anio": 2023,
+    "poblacion": 319583
+  },
+  {
+    "provincia": "Alajuela",
+    "sexo": "Masculino",
+    "grupo_edad": "15-64",
+    "anio": 2023,
+    "poblacion": 316917
+  },
+  {
+    "provincia": "Alajuela",
+    "sexo": "Femenino",
+    "grupo_edad": "65+",
+    "anio": 2023,
+    "poblacion": 57506
+  },
+  {
+    "provincia": "Alajuela",
+    "sexo": "Masculino",
+    "grupo_edad": "65+",
+    "anio": 2023,
+    "poblacion": 46994
+  },
+  {
+    "provincia": "Cartago",
+    "sexo": "Femenino",
+    "grupo_edad": "0-14",
+    "anio": 2023,
+    "poblacion": 52146
+  },
+  {
+    "provincia": "Cartago",
+    "sexo": "Masculino",
+    "grupo_edad": "0-14",
+    "anio": 2023,
+    "poblacion": 50754
+  },
+  {
+    "provincia": "Cartago",
+    "sexo": "Femenino",
+    "grupo_edad": "15-64",
+    "anio": 2023,
+    "poblacion": 160805
+  },
+  {
+    "provincia": "Cartago",
+    "sexo": "Masculino",
+    "grupo_edad": "15-64",
+    "anio": 2023,
+    "poblacion": 172395
+  },
+  {
+    "provincia": "Cartago",
+    "sexo": "Femenino",
+    "grupo_edad": "65+",
+    "anio": 2023,
+    "poblacion": 29249
+  },
+  {
+    "provincia": "Cartago",
+    "sexo": "Masculino",
+    "grupo_edad": "65+",
+    "anio": 2023,
+    "poblacion": 24651
+  },
+  {
+    "provincia": "Heredia",
+    "sexo": "Femenino",
+    "grupo_edad": "0-14",
+    "anio": 2023,
+    "poblacion": 41645
+  },
+  {
+    "provincia": "Heredia",
+    "sexo": "Masculino",
+    "grupo_edad": "0-14",
+    "anio": 2023,
+    "poblacion": 44955
+  },
+  {
+    "provincia": "Heredia",
+    "sexo": "Femenino",
+    "grupo_edad": "15-64",
+    "anio": 2023,
+    "poblacion": 145369
+  },
+  {
+    "provincia": "Heredia",
+    "sexo": "Masculino",
+    "grupo_edad": "15-64",
+    "anio": 2023,
+    "poblacion": 153401
+  },
+  {
+    "provincia": "Heredia",
+    "sexo": "Femenino",
+    "grupo_edad": "65+",
+    "anio": 2023,
+    "poblacion": 25966
+  },
+  {
+    "provincia": "Heredia",
+    "sexo": "Masculino",
+    "grupo_edad": "65+",
+    "anio": 2023,
+    "poblacion": 21664
+  },
+  {
+    "provincia": "Guanacaste",
+    "sexo": "Femenino",
+    "grupo_edad": "0-14",
+    "anio": 2023,
+    "poblacion": 40848
+  },
+  {
+    "provincia": "Guanacaste",
+    "sexo": "Masculino",
+    "grupo_edad": "0-14",
+    "anio": 2023,
+    "poblacion": 44112
+  },
+  {
+    "provincia": "Guanacaste",
+    "sexo": "Femenino",
+    "grupo_edad": "15-64",
+    "anio": 2023,
+    "poblacion": 113541
+  },
+  {
+    "provincia": "Guanacaste",
+    "sexo": "Masculino",
+    "grupo_edad": "15-64",
+    "anio": 2023,
+    "poblacion": 120099
+  },
+  {
+    "provincia": "Guanacaste",
+    "sexo": "Femenino",
+    "grupo_edad": "65+",
+    "anio": 2023,
+    "poblacion": 19452
+  },
+  {
+    "provincia": "Guanacaste",
+    "sexo": "Masculino",
+    "grupo_edad": "65+",
+    "anio": 2023,
+    "poblacion": 15948
+  },
+  {
+    "provincia": "Puntarenas",
+    "sexo": "Femenino",
+    "grupo_edad": "0-14",
+    "anio": 2023,
+    "poblacion": 50876
+  },
+  {
+    "provincia": "Puntarenas",
+    "sexo": "Masculino",
+    "grupo_edad": "0-14",
+    "anio": 2023,
+    "poblacion": 51624
+  },
+  {
+    "provincia": "Puntarenas",
+    "sexo": "Femenino",
+    "grupo_edad": "15-64",
+    "anio": 2023,
+    "poblacion": 129682
+  },
+  {
+    "provincia": "Puntarenas",
+    "sexo": "Masculino",
+    "grupo_edad": "15-64",
+    "anio": 2023,
+    "poblacion": 136818
+  },
+  {
+    "provincia": "Puntarenas",
+    "sexo": "Femenino",
+    "grupo_edad": "65+",
+    "anio": 2023,
+    "poblacion": 22455
+  },
+  {
+    "provincia": "Puntarenas",
+    "sexo": "Masculino",
+    "grupo_edad": "65+",
+    "anio": 2023,
+    "poblacion": 18545
+  },
+  {
+    "provincia": "Limón",
+    "sexo": "Femenino",
+    "grupo_edad": "0-14",
+    "anio": 2023,
+    "poblacion": 50610
+  },
+  {
+    "provincia": "Limón",
+    "sexo": "Masculino",
+    "grupo_edad": "0-14",
+    "anio": 2023,
+    "poblacion": 49750
+  },
+  {
+    "provincia": "Limón",
+    "sexo": "Femenino",
+    "grupo_edad": "15-64",
+    "anio": 2023,
+    "poblacion": 120481
+  },
+  {
+    "provincia": "Limón",
+    "sexo": "Masculino",
+    "grupo_edad": "15-64",
+    "anio": 2023,
+    "poblacion": 130419
+  },
+  {
+    "provincia": "Limón",
+    "sexo": "Femenino",
+    "grupo_edad": "65+",
+    "anio": 2023,
+    "poblacion": 19252
+  },
+  {
+    "provincia": "Limón",
+    "sexo": "Masculino",
+    "grupo_edad": "65+",
+    "anio": 2023,
+    "poblacion": 15488
+  }
+]

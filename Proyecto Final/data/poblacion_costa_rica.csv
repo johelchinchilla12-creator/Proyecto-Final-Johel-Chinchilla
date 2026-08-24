@@ -1,0 +1,47 @@
+provincia,sexo,grupo_edad,anio,poblacion
+San José,Femenino,0-14,2023,164730
+San José,Masculino,0-14,2023,165270
+San José,Femenino,15-64,2023,539402
+San José,Masculino,15-64,2023,582598
+San José,Femenino,65+,2023,106574
+San José,Masculino,65+,2023,91426
+Alajuela,Femenino,0-14,2023,101720
+Alajuela,Masculino,0-14,2023,107280
+Alajuela,Femenino,15-64,2023,319583
+Alajuela,Masculino,15-64,2023,316917
+Alajuela,Femenino,65+,2023,57506
+Alajuela,Masculino,65+,2023,46994
+Cartago,Femenino,0-14,2023,52146
+Cartago,Masculino,0-14,2023,50754
+Cartago,Femenino,15-64,2023,160805
+Cartago,Masculino,15-64,2023,172395
+Cartago,Femenino,65+,2023,29249
+Cartago,Masculino,65+,2023,24651
+Heredia,Femenino,0-14,2023,41645
+Heredia,Masculino,0-14,2023,44955
+Heredia,Femenino,15-64,2023,145369
+Heredia,Masculino,15-64,2023,153401
+Heredia,Femenino,65+,2023,25966
+Heredia,Masculino,65+,2023,
+Guanacaste,Femenino,0-14,2023,40848
+Guanacaste,Masculino,0-14,2023,44112
+Guanacaste,Femenino,15-64,2023,113541
+Guanacaste,Masculino,15-64,2023,120099
+Guanacaste,Femenino,65+,2023,19452
+Guanacaste,Masculino,65+,2023,
+Puntarenas,Femenino,0-14,2023,50876
+Puntarenas,Masculino,0-14,2023,51624
+Puntarenas,Femenino,15-64,2023,129682
+Puntarenas,Masculino,15-64,2023,136818
+Puntarenas,Femenino,65+,2023,22455
+Puntarenas,Masculino,65+,2023,18545
+Limón,Femenino,0-14,2023,50610
+Limón,Masculino,0-14,2023,49750
+Limón,Femenino,15-64,2023,120481
+Limón,Masculino,15-64,2023,130419
+Limón,Femenino,65+,2023,19252
+Limón,Masculino,65+,2023,N/D
+San José,Femenino,0-14,2023,164730
+Cartago,Femenino,0-14,2023,52146
+Limón,Femenino,0-14,2023,50610
+,Femenino,0-14,2023,500

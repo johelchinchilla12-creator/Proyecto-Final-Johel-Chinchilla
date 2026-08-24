@@ -1,0 +1,17 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+
+# Archivos del sistema operativo
+.DS_Store
+
+# Gráficos generados (se recrean al ejecutar el programa)
+graficos/*.png
+
+# Configuración de editores
+.vscode/
