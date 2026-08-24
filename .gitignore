@@ -1,0 +1,9 @@
+# Documento IteraFlex: se sube directo a la plataforma del curso, no a GitHub
+ProyectoFinal_IteraFlex_Johel_Chinchilla.docx
+ProyectoFinal_IteraFlex_Johel_Chinchilla.pdf
+
+# Archivos del sistema operativo
+.DS_Store
+
+# Caché de herramientas (mypy, etc.)
+.mypy_cache/
