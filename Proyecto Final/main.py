@@ -29,8 +29,14 @@ import os
 
 from modulos import carga_datos, limpieza_datos, organizacion_datos, estadisticas, visualizacion
 
+# Carpeta donde vive este archivo (main.py), sin importar desde dónde se ejecute
+# el programa. Usar esta ruta como base evita el error "No se encontró el
+# archivo" cuando el programa se corre desde otra carpeta (por ejemplo, al
+# usar el botón "Run" de VS Code con otra carpeta abierta como raíz).
+CARPETA_PROYECTO = os.path.dirname(os.path.abspath(__file__))
+
 # Ruta por defecto del archivo de datos (se puede cambiar desde el menú)
-RUTA_DATOS_POR_DEFECTO = os.path.join("data", "poblacion_costa_rica.csv")
+RUTA_DATOS_POR_DEFECTO = os.path.join(CARPETA_PROYECTO, "data", "poblacion_costa_rica.csv")
 
 
 def cargar_y_preparar_datos(ruta_archivo):
