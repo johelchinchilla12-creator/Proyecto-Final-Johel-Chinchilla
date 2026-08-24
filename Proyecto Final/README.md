@@ -26,8 +26,9 @@ mayor envejecimiento poblacional.
   conjunto de **datos ilustrativos**, construido a partir de proporciones
   poblacionales aproximadas de las 7 provincias de Costa Rica (año 2023),
   con **defectos intencionales** (3 duplicados, 3 valores faltantes/no
-  numéricos y 1 fila sin provincia) para poder **demostrar el módulo de
-  limpieza** en la exposición.
+  numéricos en subgrupos pequeños de 65+, y 1 fila sin provincia) para
+  poder **demostrar el módulo de limpieza** en la exposición sin distorsionar
+  de forma exagerada los totales.
 - `data/poblacion_costa_rica.json`: mismo conjunto de datos ya limpio, en
   formato JSON, para demostrar que `cargar_datos()` soporta ambos formatos.
 

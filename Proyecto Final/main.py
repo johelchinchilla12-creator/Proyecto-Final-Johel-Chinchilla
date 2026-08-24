@@ -152,8 +152,8 @@ def mostrar_estadisticas_provincia(datos_organizados):
     for grupo, porcentaje in sorted(distribucion_edad.items()):
         print(f"  {grupo}: {porcentaje:.2f}%")
 
-    print("\nÍndice de dependencia demográfica: "
-          f"{indice:.2f}" if indice is not None else "N/D")
+    indice_texto = f"{indice:.2f}" if indice is not None else "N/D"
+    print(f"\nÍndice de dependencia demográfica: {indice_texto}")
 
 
 def mostrar_indice_dependencia_todas(datos_organizados):
